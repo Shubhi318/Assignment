@@ -1,0 +1,28 @@
+.center{
+    text-align: center;
+}
+.right{
+    text-align: right;
+}
+.middle{
+   margin: auto;
+   width: 50%;
+}
+table,td{
+    border: 2px solid black;
+    
+    
+}
+.green{
+    background-color: green;
+    height: 20px;
+
+}
+.width{
+    width: 150px;
+}
+.blue{
+    background-color: blue;
+    height: 20px;
+
+}
