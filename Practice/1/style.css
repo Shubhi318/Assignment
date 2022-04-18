@@ -24,6 +24,15 @@ table,tr{
    height: 100px;
     
 }
+.sec1{
+    
+    padding-left: 160px;
+    text-align: center;
+    font-size: 40px;
+    color: rgb(84, 49, 117);
+    font-weight: bold;
+
+}
 #why{
     color: rgb(84, 49, 117);
     text-align: center;
@@ -33,6 +42,17 @@ table,tr{
     font-size: 30px;
     /* letter-spacing: 10px; */
     font-family: 'Fira Sans', sans-serif;
+}
+.id1{
+    padding-left: 160px;
+    font-size: 30px;
+    color: rgb(18, 9, 25);
+    font-family: 'Mukta', sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+#id2{
+
 }
 .why1{
     text-align: center;
@@ -143,9 +163,11 @@ font-family: 'Roboto Condensed', sans-serif;
         height: 20px;
     }
     .s7{
+        font-size: 60px;
         text-align: center;
         padding-top: 55px;
-        color: blueviolet;
+        color: rgb(20, 2, 36);
+        font-family: 'Akshar', sans-serif;
     }
 
     #color{
